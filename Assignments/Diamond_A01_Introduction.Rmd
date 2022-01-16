@@ -24,13 +24,13 @@ The completed exercise is due on <>.
 
 > Answer: 
 
-I used R last semester in ENV790 with John Poulsen. Before that class, I was briefly introduced to R in my senior thesis project in college. Outside of those two classes, I have not experimented with R. This class is the first time I have heard of and used Git.
+I used R last semester in ENV710 with John Poulsen. Before that class, I was briefly introduced to R in my senior thesis project in college. Outside of those two classes, I have not experimented with R. This class is the first time I have heard of and used Git.
 
 2. Are there any components of the course about which you feel confident?
 
 > Answer: 
 
-I feel like I know the basics of R and statistical analyses. I understand what a lot of the functions mean and the correct way to write them in R. Most of what we did in 790 was statistics related so I feel I have a pretty strong grasp on those concepts and feel confident to execute them in R.
+I feel like I know the basics of R and statistical analyses. I understand what a lot of the functions mean and the correct way to write them in R. Most of what we did in 710 was statistics related so I feel I have a pretty strong grasp on those concepts and feel confident to execute them in R.
 
 3. Are there any components of the course about which you feel apprehensive?
 
